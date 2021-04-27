@@ -2,7 +2,7 @@
 title: Garry's Mod Guides
 chapter: true
 pre: <b> 2. </b>
-weight: 2
+weight: 3
 disableToc: false
 mermaid: false
 ---
