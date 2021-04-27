@@ -6,6 +6,8 @@ weight = 101
 
 explain ftp and what it means
 
+explain with images how to access user-specific ftp information
+
 
 #
 ![Banner](/images/fishy.gif)
