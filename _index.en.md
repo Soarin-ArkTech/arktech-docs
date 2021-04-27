@@ -6,8 +6,6 @@ title: "ArkTech Docs"
 
 #### [ArkTech](https://arktech.host/) is a server provider that strives to offer a stable and reasonable foundation to allow developing communities grow without the burden of hosting fees or self-hosting. 
 
-Testing
-
 This page is the official part of ArkTech and represents a small piece of our larger goal to provide more than just a game server. Here you will find guides to help you to navigate around ArkTech's interfaces, solutions to common problems, quick start guidance for your game server, answer common questions, and anything that receives frequent inquiries. 
 
 {{% notice note %}}If you appreciate the services offered to ArkTech and would like to contribute, we have multiple ways for you to do so without costing a dime. You are more than welcome to submit guides to be added to our site and will receive complete credit. You can also pin our website on your IPFS node to help us remain decentralized, redundant, and low latency to your country. [Find out more here.](https://ipfs.io/) 
