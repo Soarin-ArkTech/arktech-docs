@@ -7,23 +7,23 @@ weight = 101
 ## server.cfg
 garrysmod/cfg
 
-cfg options in a table or something
+screenshot of the auto-generated server.cfg file
 
-## mount.cfg
-garrysmod/cfg
+Basic server.cfg generator https://csite.io/tools/gmod-universal-cfg
 
-link to mounting-game-content
+if -1 is specified on a sbox_max line, the limit is infinite
+
+some more useful cfg options put them in a table or something
+- sv_location us
+- sv_alltalk 3
 
 ## Steam Workshop Collections
-link to content-mounting
+mention clientside and serverside collections
 
 ## Commandline Manager
 mention startup parameters in pterodactyl 
 
 also mention the GSLT
-
-## ULX
-mentioned in ulx-setup
 
 
 #
