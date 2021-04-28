@@ -1,8 +1,8 @@
 ---
 title: Team Fortress 2 Guides
 chapter: true
-pre: <b> 3. </b>
-weight: 3
+pre: <b> 4. </b>
+weight: 53
 disableToc: false
 mermaid: false
 ---
@@ -13,7 +13,7 @@ mermaid: false
 
 paragraphs
 
-if tf2 hosting is even offered
+wizerd's tf2 server setup guide: https://steamcommunity.com/sharedfiles/filedetails/?id=2179527677
 
 # 
 ![Screenshot](images/tf269.png)
