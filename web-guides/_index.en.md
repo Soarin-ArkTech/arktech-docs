@@ -1,8 +1,8 @@
 ---
 title: Web Hosting Guides
 chapter: true
-pre: <b> 2. </b>
-weight: 2
+pre: <b> 4. </b>
+weight: 4
 disableToc: false
 mermaid: false
 ---
