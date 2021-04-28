@@ -6,5 +6,8 @@ weight = 103
 
 list some basic, yet essential commands needed to run a garrysmod server
 
+- change map
+- gmod_admin_cleanup
+
 #
 ![Banner](/images/fishy.gif)
