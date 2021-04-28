@@ -1,5 +1,5 @@
 ---
-title: Obtaining a Server with ArkTech
+title: Obtaining a Service with ArkTech
 weight: 49
 ---
 
