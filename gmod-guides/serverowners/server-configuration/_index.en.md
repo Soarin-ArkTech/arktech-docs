@@ -23,7 +23,7 @@ mention startup parameters in pterodactyl
 also mention the GSLT
 
 ## ULX
-some ulx stuff perhaps, maybe separate it to a new file
+mentioned in ulx-setup
 
 
 #
