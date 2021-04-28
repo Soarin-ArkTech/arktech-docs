@@ -13,8 +13,6 @@ mermaid: false
 
 paragraphs
 
-wizerd's tf2 server setup guide: https://steamcommunity.com/sharedfiles/filedetails/?id=2179527677
-
 # 
 ![Screenshot](images/tf269.png)
 {{% notice note %}}
