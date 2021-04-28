@@ -20,6 +20,11 @@ link to content-mounting
 ## Commandline Manager
 mention startup parameters in pterodactyl 
 
+also mention the GSLT
+
+## ULX
+some ulx stuff perhaps, maybe separate it to a new file
+
 
 #
 ![Banner](/images/fishy.gif)

@@ -8,6 +8,8 @@ explain ftp and what it means
 
 explain with images how to access user-specific ftp information
 
+go through filezilla and winscp
+
 
 #
 ![Banner](/images/fishy.gif)

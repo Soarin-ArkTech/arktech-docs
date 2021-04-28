@@ -13,6 +13,8 @@ garrysmod/lua/autorun/server
 ## Steam Workshop Collections
 mention serverside and clientside collections
 
+also explain process of extracting steam addons with gmad and/or steamworkshopdownloader.io
+
 
 
 
