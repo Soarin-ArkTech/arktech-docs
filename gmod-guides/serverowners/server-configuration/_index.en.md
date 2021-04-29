@@ -7,7 +7,7 @@ weight = 101
 ## server.cfg
 garrysmod/cfg
 
-screenshot of the auto-generated server.cfg file
+screenshot of arktech's auto-generated server.cfg file
 
 Basic server.cfg generator https://csite.io/tools/gmod-universal-cfg
 
@@ -23,8 +23,9 @@ mention clientside and serverside collections
 ## Commandline Manager
 mention startup parameters in pterodactyl 
 
-also mention the GSLT
+explain the different fields
 
+link gslt to the dedicated page
 
 #
 ![Banner](/images/fishy.gif)
