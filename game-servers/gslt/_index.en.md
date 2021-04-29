@@ -18,7 +18,7 @@ Within the Commandline Manager is a field for a Game Server Login Token, also kn
 5. Create!
 
 ### Adding the token to your server
-1. Log into the game panel (add hyperlink)
+1. Log into the [game panel](https://arktech.host/). 
 2. tbd
 
 ### Important notice for Garry's Mod server owners:
