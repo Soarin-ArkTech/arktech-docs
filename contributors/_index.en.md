@@ -1,7 +1,7 @@
 ---
-title: Contributors
+title: "Contributors"
 chapter: false
-weight: 57
+weight: 58
 disableToc: false
 mermaid: false
 ---

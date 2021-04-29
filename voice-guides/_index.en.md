@@ -1,8 +1,8 @@
 ---
-title: Voice Server Guides
+title: "Voice Server" 
 chapter: true
-pre: <b> 6. </b>
-weight: 55
+pre: <b> 7. </b>
+weight: 56
 disableToc: false
 mermaid: false
 ---
