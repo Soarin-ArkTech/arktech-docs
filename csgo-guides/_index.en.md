@@ -1,8 +1,8 @@
 ---
 title: "CS:GO"
 chapter: true
-pre: <b> 6. </b>
-weight: 55
+pre: <b> 5. </b>
+weight: 54
 disableToc: false
 mermaid: false
 ---

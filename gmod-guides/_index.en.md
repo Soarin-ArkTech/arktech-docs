@@ -1,8 +1,8 @@
 ---
 title: "Garry's Mod"
 chapter: true
-pre: <b> 4. </b>
-weight: 53
+pre: <b> 3. </b>
+weight: 52
 disableToc: false
 mermaid: false
 ---
