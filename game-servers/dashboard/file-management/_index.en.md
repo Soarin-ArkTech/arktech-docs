@@ -6,7 +6,7 @@ weight = 101
 
 explain ftp and what it means
 
-explain with images how to access user-specific ftp information
+explain with images how to access ftp login info
 
 go through filezilla and winscp
 
