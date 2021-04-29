@@ -9,21 +9,17 @@ garrysmod/cfg
 
 cfg options in a table or something
 
-## mount.cfg
-garrysmod/cfg
-
-link to mounting-game-content
-
-## Steam Workshop Collections
-link to content-mounting
+## mapcycles
 
 ## Commandline Manager
 mention startup parameters in pterodactyl 
 
 also mention the GSLT
 
-## ULX
-mentioned in ulx-setup
+## sourcemod
+mentioned in sourcemod-setup
+
+maybe don't keep this tbd
 
 
 #
