@@ -30,5 +30,7 @@ Find more information about the GSLT as it pertains to Garry's Mod on the Facepu
 A Game Server Login Token that goes unused for an extended period of time will expire, but may be regenerated.
 {{% /notice %}}
 
+---
 #
+This guide written by [wizerd](https://github.com/doorset)
 ![Banner](/images/fishy.gif)
