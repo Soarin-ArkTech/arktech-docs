@@ -32,5 +32,5 @@ A Game Server Login Token that goes unused for an extended period of time will e
 
 ---
 #
-This guide written by [wizerd](https://github.com/doorset)
+This guide written by [wizerd](../../contributors/wizerd/)
 ![Banner](/images/fishy.gif)
