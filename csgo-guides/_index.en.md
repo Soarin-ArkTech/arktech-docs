@@ -1,20 +1,19 @@
 ---
-title: "Team Fortress 2" 
+title: "CS:GO"
 chapter: true
-pre: <b> 4. </b>
-weight: 53
+pre: <b> 5. </b>
+weight: 54
 disableToc: false
 mermaid: false
 ---
 
 
 ### ArkTech Community
-# Team Fortress 2 Guides
+# Counter-Strike: Global Offensive Guides
 
-paragraphs
+also things for puff to do
 
 # 
-![Screenshot](images/tf269.png)
 {{% notice note %}}
 If you spot errors or poor practices in a guide, please report it on our forums or our Discord.
 {{% /notice %}}

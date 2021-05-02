@@ -1,20 +1,19 @@
 ---
-title: "Team Fortress 2" 
+title: "Voice Server" 
 chapter: true
-pre: <b> 4. </b>
-weight: 53
+pre: <b> 7. </b>
+weight: 56
 disableToc: false
 mermaid: false
 ---
 
 
 ### ArkTech Community
-# Team Fortress 2 Guides
+# Voice Server Guides
 
-paragraphs
+things for puff to do
 
 # 
-![Screenshot](images/tf269.png)
 {{% notice note %}}
 If you spot errors or poor practices in a guide, please report it on our forums or our Discord.
 {{% /notice %}}

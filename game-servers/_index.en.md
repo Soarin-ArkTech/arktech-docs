@@ -1,20 +1,19 @@
 ---
-title: "Team Fortress 2" 
+title: "Game Hosting"
 chapter: true
-pre: <b> 4. </b>
-weight: 53
+pre: <b> 2. </b>
+weight: 51
 disableToc: false
 mermaid: false
 ---
 
 
 ### ArkTech Community
-# Team Fortress 2 Guides
+# Game Hosting Guides
 
-paragraphs
+overall stuff that applies to more than one game
 
 # 
-![Screenshot](images/tf269.png)
 {{% notice note %}}
 If you spot errors or poor practices in a guide, please report it on our forums or our Discord.
 {{% /notice %}}

@@ -1,8 +1,8 @@
 ---
-title: Getting Started
+title: "Getting Started"
 chapter: true
 pre: <b> 1. </b>
-weight: 1
+weight: 50
 ---
 
 
