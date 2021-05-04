@@ -7,6 +7,8 @@ weight = 103
 ## workshop.lua
 garrysmod/lua/autorun/server
 
+workshop.lua generator https://csite.io/tools/gmod-universal-workshop
+
 ## resource.lua
 garrysmod/lua/autorun/server
 
