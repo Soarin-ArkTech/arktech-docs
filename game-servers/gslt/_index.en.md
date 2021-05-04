@@ -27,10 +27,10 @@ It is highly recommended to fill in the GSLT field with a valid token, as your s
 Find more information about the GSLT as it pertains to Garry's Mod on the Facepunch Wiki: https://wiki.facepunch.com/gmod/Steam_Game_Server_Accounts
 
 {{% notice note %}}
-A Game Server Login Token that goes unused for an extended period of time will expire, but may be regenerated.
+A Game Server Login Token that goes unused for an extended period of time will expire, but may later be regenerated.
 {{% /notice %}}
 
 ---
 #
-This guide written by [wizerd](../../contributors/wizerd/)
+This page written by [wizerd](/contributors/wizerd/).
 ![Banner](/images/fishy.gif)

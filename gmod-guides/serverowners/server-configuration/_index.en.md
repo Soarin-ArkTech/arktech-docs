@@ -18,7 +18,7 @@ some more useful cfg options put them in a table or something
 - sv_alltalk 3
 
 ## Steam Workshop Collections
-Workshop collections are by far the easiest way to use addons with a server. You can slim down loading times and content amounts with a bit of cleverness and time, therefore raising your concurrent playercount.
+Workshop collections are by far the easiest way to utilize addons on a Garry's Mod server. You can slim down loading times and user content amounts with a bit of cleverness and time, therefore raising your concurrent playercount.
 
 ### Server-Side Addons
 Not all of your server addons need to be downloaded by the player. Things such as administrative mods, scoreboards, tools, there is no need to force download them to those joining. 
@@ -28,7 +28,7 @@ However in this collection, you must include all the addons the server must load
 Here are some examples of popular addons that do *not* need to be downloaded by clients;
 - Admin Mods (ULX, XAdmin, SAM, etc.)
 - Tools (Wiremod, Advanced Duplicator, Precision, Stacker, etc.)
-- Miscellanous (Stream Radio, PAC3, etc.)
+- Miscellanous (Stream Radio, PAC3, GDisasters Base Pack, etc.)
 
 ### Client-Side Addons
 Addons such as materials, models, and vehicles, users must download them in order to not see errors and missing textures.
@@ -51,5 +51,7 @@ explain the different fields
 
 link gslt to the dedicated page
 
+---
 #
+This page written by [wizerd](/contributors/wizerd/).
 ![Banner](/images/fishy.gif)

@@ -20,5 +20,7 @@ also explain process of extracting steam addons with gmad and/or steamworkshopdo
 
 
 
+---
 #
+This page written by [wizerd](/contributors/wizerd/).
 ![Banner](/images/fishy.gif)

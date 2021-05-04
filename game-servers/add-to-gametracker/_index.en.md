@@ -18,5 +18,5 @@ Gametracker is a free service that allows server owners and players alike to vie
 
 ---
 #
-This guide written by [wizerd](../../contributors/wizerd/)
+This page written by [wizerd](/contributors/wizerd/).
 ![Banner](/images/fishy.gif)
