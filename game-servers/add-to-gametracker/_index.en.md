@@ -7,7 +7,7 @@ weight = 101
 ## Gametracker
 Gametracker is a free service that allows server owners and players alike to view extended statistics of a game server, support ranging from ARMA and Minecraft, to Team Fortress 2 and Garry's Mod, and many more.
 
-### Adding your server to Gametracker
+### Adding Your Server to Gametracker
 1. Visit https://www.gametracker.com/servers/.
 2. Create an account/log into Gametracker.
 3. Fill in the boxes with the respective information of your server. Example image: 

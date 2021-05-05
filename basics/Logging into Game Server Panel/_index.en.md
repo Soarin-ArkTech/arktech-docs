@@ -6,7 +6,7 @@ weight: 50
 ## Pterodactyl
 ArkTech uses the free, open-source Pterodactyl game panel. Pterodactyl provides server owners and hosts with many freedoms, all working on a modern and fast user interface.
 
-### Logging into the game panel
+### Logging Into the Game Panel
 1. Navigate to https://game.arktech.host/auth/login.
 ![Screenshot](/basics/images/login.png)
 2. Fill the fields with the login information sent to your email address from ArkTech. 
