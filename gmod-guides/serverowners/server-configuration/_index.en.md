@@ -62,6 +62,17 @@ Extra tidbits that may be useful to server owners:
     - Setting sv_alltalk to 3 will make sure everyone in the server can hear voice chat.
 - On any sbox_max limit, -1 sets no limit.
 
+### Custom Loading Screen
+Server operators are given the option to display custom webpages to connecting players instead of the default Garry's Mod loading screen. This option is offered through the "sv_loadingurl" parameter.
+
+There are a few free loading screen creators out there, but nothing will beat spending money for a quality product and hosting it yourself. Here are a few good options:
+
+- [cSite](https://csite.io/services/loading) (formerly TheCodingBeast) - Free
+- [sleekLoad 2](https://www.gmodstore.com/market/view/sleekload-2-loading-screen_) - $4.99USD + Requires own web server
+- [Striper Loading](https://www.gmodstore.com/market/view/striper-loading-a-garry-s-mod-loading-screen) - $4.99USD + Requires own web server
+- [Mallard LoadScreen](https://www.gmodstore.com/market/view/sale-mallard-loadscreen-5-in-1-easy-cheap-configurable-loading-screen) $4.99USD + Requires own web server
+- Making your own! 
+
 ## Steam Workshop Collections
 Workshop collections are by far the easiest way to utilize addons on a Garry's Mod server. You can slim down loading times and user content amounts with a bit of cleverness and time, therefore raising your concurrent playercount.
 
