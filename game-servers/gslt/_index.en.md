@@ -18,7 +18,7 @@ Within the Commandline Manager is a field for a Game Server Login Token, also kn
 5. Create!
 
 ### Adding the Token to Your Server
-1. Log into the [game panel](https://arktech.host/). 
+1. Log into the [game panel](https://game.arktech.host/). 
 2. Navigate to the Startup tab on your service.
 3. Paste the token into the Steam Account Token box.
 4. Changes are saved automatically. Restart your server and you're set!
